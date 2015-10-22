@@ -1,7 +1,5 @@
-package kz.designpatterns.adapter;
+package kz.designpatterns.facade;
 
-import kz.designpatterns.facade.ScheduleServer;
-import kz.designpatterns.facade.ScheduleServerFacade;
 import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.is;
