@@ -8,7 +8,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 /**
  * Created on 21/10/2015.
  */
-public class TestFacadePattern {
+public class FacadePatternTest {
     @Test
     public void shouldStartServer() {
         ScheduleServer scheduleServer = new ScheduleServer();
